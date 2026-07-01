@@ -4,15 +4,15 @@ I am a Senior Analyst for Place at the West of England Mayoral Combined Authorit
 
 🔍 What I work on:
 
-> Spatial and agent‑based modelling
+- Spatial and agent‑based modelling
 
-> Gravity and interaction frameworks for greenspace and place‑based behaviour
+- Gravity and interaction frameworks for greenspace and place‑based behaviour
 
-> Housing, accessibility and land‑use analytics
+- Housing, accessibility and land‑use analytics
 
-> Reproducible scientific workflows in R, Quarto and GitHub
+- Reproducible scientific workflows in R, Quarto and GitHub
 
-> Visual storytelling through maps, figures and spatial narratives
+- Visual storytelling through maps, figures and spatial narratives
 
 🌱 Current focus:
 
@@ -20,27 +20,27 @@ I develop analytical foundations that support regional planning, housing evidenc
 
 🧠 Theoretical interests:
 
-> Socio Spatial Perspective (SSP)
+- Socio Spatial Perspective (SSP)
 
-> Actor‑Network Theory (ANT)
+- Actor‑Network Theory (ANT)
 
-> Applied Assemblage Theory (AAT)
+- Applied Assemblage Theory (AAT)
 
-> Object‑Oriented Ontology (OOO)
+- Object‑Oriented Ontology (OOO)
 
 These approaches shape how I think about environments, behaviour and the relational structures that underpin spatial systems.
 
 🧰 Skills and interests:
 
-> Rigorous spatial modelling and simulation
+- Rigorous spatial modelling and simulation
 
-> Transparent, modular code design
+- Transparent, modular code design
 
-> Scientific communication and figure sequencing
+- Scientific communication and figure sequencing
 
-> Environmental intelligence for everyday lives
+- Environmental intelligence for everyday lives
 
-> Place‑based analytics and socio-spatial insight
+- Place‑based analytics and socio-spatial insight
 
 📫 Get in touch:
 
